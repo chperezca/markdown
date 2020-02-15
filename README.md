@@ -112,6 +112,7 @@ Para agregar citas se utiliza ">"
 ***
 # Enlaces
 Para realizar un enlace se ingresa la palabra clave dentro de corchetes y el link dentro de parentesis
+Entre corchetes agregamos el nombre el nombre del enlace **[buscar]** y a continuación entre paréntesis la url **(http://www.google.com)** madianet el siguiente codigo
 #### Codigo
 ~~~
 [Buscar](http:/google.com)
