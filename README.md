@@ -125,4 +125,4 @@ Entre corchetes agregamos el nombre el nombre del enlace **[buscar]** y a contin
 ~~~
 ![Uno](imagenes/2000000001.jpg "ejemplo")
 ~~~
-![uno](imagen/2000000001.jpg "Ejemplo")
+![uno](Imagen/2000000001.jpg "Ejemplo")
