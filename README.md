@@ -122,6 +122,7 @@ Entre corchetes agregamos el nombre el nombre del enlace **[buscar]** y a contin
 
 ***
 #Imágenes
+La manera de enlazar imágenes es básicamente la misma de crear enlaces, con una única diferencia, se añade el carácter de exclamación ! al principio de la pareja de corchetes que definen el nombre del enlace. La imagen se puede cargar en una carpeta de forma que entre corchetes se agreguen la ruta, por ejemplo: imagenes/tres.jpg
 ~~~
 ![Uno](imagenes/2000000001.jpg "ejemplo")
 ~~~
